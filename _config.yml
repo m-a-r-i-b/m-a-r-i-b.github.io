@@ -120,18 +120,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:i.maribsultan@gmail.com
-    - label: "Schedule a Chat"
-      icon: "fa fa-fw fa-calendar"
-      url: "/calendar/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/marib-sultan-740266aa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/marib-suItan"   
+      url: "https://github.com/m-a-r-i-b"   
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://marib-suitan.github.io/"
+      url: "https://m-a-r-i-b.github.io/"
 
 
 # Reading Files
