@@ -1,5 +1,5 @@
 ---
-title: "Tech session - How video works, a deep dive"
+title: "How video works, a deep dive"
 tags: 
   - Video Encoding & Decoding
   - Hardware Acceleration

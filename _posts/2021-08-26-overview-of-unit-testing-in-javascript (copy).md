@@ -1,5 +1,5 @@
 ---
-title: "Tech session - An overview of unit testing in javascript"
+title: "An overview of unit testing in javascript"
 tags: 
   - Unit Testing
   - Javascript
