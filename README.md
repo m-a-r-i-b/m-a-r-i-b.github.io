@@ -8,3 +8,8 @@ To serve :
 ```
 bundle exec jekyll serve --watch
 ```
+
+had to run to fix "bundle install" issues
+```
+bundle config set --local path 'vendor/bundle'
+```
